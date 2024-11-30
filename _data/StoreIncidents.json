@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 16500,
+		"price": 36500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -322,7 +322,7 @@
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 4000,
 		"karmatype": "Good"
 	},
 	{
@@ -434,12 +434,7 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 88
+	"total": 87
 }
